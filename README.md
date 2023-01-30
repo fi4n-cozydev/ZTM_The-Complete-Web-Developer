@@ -1,8 +1,21 @@
 ## ZTM_The-Complete-Web-Developer
 
-| **Contents** | **Type** | **Status** |
-| :-------- | :--- | :---------- |
+| **Contents** | **Status** | **Description** |
+| :----------- | :--------- | :-------------- |
 | HTML5 | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
-| Advanced HTML5 | ![#FFA500](https://via.placeholder.com/10/FFA500?text=+) | `waiting`|
-| CSS | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Advanced HTML5 | ![#2E8BC0](https://via.placeholder.com/10/2E8BC0?text=+) | `learning`|
+| CSS | ![#FFA500](https://via.placeholder.com/10/FFA500?text=+) | `waiting`|
 | Advanced CSS | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Bootstrap | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+|  CSS Grid + CSS Layout | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Javascript | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| DOM Manipulation | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Advanced Javascript | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Command Line | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| NPM + NPM Scripts | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| React.js + Redux | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| HTTP/JSON/AJAX + Asynchronous Javascript | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Backend Basics | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| APIs | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Node.js + Express.js | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Databases | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
