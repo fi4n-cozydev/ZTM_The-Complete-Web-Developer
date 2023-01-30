@@ -7,17 +7,47 @@
     <b>Register</b><hr>
 
     <!-- <form> -->
-    <!-- [ method / action ] -->
-    <form action="">
+    <!-- action [some PHP file] -->
+    <!-- method [ GET / POST ] -->
+    <form method="GET" action="">
 
     <!-- <input> -->
     <!-- [text / submit / reset / email / radio / password] -->
     <!-- [required / value / name / min] -->
-        First Name: <input type="text"><br>
-        Last Name: <input type="text"><br>
-        Email: <input type="email" required><br>
-        Birthday <input type="date" required><br>
-        Booking <input type="datetime-local" required><br>
+        First Name: <input type="text" name="fname"><br>
+        Last Name: <input type="text" name="lname"><br>
+        Email: <input type="email" name="email" required><br>
+        Password: <input type="password" name="password" min="6"><br>
+        Birthday <input type="date" name="birthday"><br><br>
+
+        Gender:<br>
+            <input type="radio" name="gender" value="male">Male<br>
+            <input type="radio" name="gender" value="female">Female<br>
+            <input type="radio" name="gender" value="other">Other<br><br>
+
+        Pets:<br>
+            <input type="checkbox" name="cat">Cat<br>
+            <input type="checkbox" name="dog">Dog<br><br>
+
+    <!-- <select> -->
+    <!-- autofocus / disabled / form / multiple / name / required / size -->
+        Cars:
+            <select name="cars" id="cars" size="5" autofocus required>
+                <option value="">None</option>
+                <optgroup label="Swedish Cars">
+                    <option value="saab" name="saab">Saab</option>
+                    <option value="volvo" name="volvo">Volvo</option>
+                </optgroup>
+                <optgroup label="German Cars">
+                    <option value="Audi">Audi</option>
+                    <option value="mercedes">Mercedes</option>
+                </optgroup>
+                <optgroup label="Japan Cars">
+                    <option value="honda">Honda</option>
+                    <option value="yamaha" disabled>Yamaha</option>
+                </optgroup>
+            </select><br><br>
+        Booking: <input type="datetime-local" name="booking" required><br>
         <input type="submit" value="Register">
         <input type="reset" value="Reset">
 

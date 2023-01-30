@@ -4,5 +4,6 @@ https://www.w3schools.com/html/html_formatting.asp
 
 #Ref. L2 - HTML Forms
 https://www.w3schools.com/html/html_forms.asp
-
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+https://www.w3schools.com/tags/tag_select.asp
+https://www.w3schools.com/html/exercise.asp
