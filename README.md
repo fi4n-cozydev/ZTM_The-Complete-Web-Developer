@@ -3,9 +3,9 @@
 | **Contents** | **Status** | **Description** |
 | :----------- | :--------- | :-------------- |
 | HTML5 | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
-| Advanced HTML5 | ![#2E8BC0](https://via.placeholder.com/10/2E8BC0?text=+) | `learning`|
-| CSS | ![#FFA500](https://via.placeholder.com/10/FFA500?text=+) | `waiting`|
-| Advanced CSS | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| Advanced HTML5 | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
+| CSS | ![#2E8BC0](https://via.placeholder.com/10/2E8BC0?text=+) | `learning`|
+| Advanced CSS | ![#FFA500](https://via.placeholder.com/10/FFA500?text=+) | `waiting`|
 | Bootstrap | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
 |  CSS Grid + CSS Layout | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
 | Javascript | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
