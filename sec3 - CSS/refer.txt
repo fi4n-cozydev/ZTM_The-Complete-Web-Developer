@@ -1,0 +1,33 @@
+#Ref. L1 - HTML Tags
+https://www.w3schools.com/tags/default.asp
+https://www.w3schools.com/html/html_formatting.asp
+
+#Ref. L2 - HTML Forms
+https://www.w3schools.com/html/html_forms.asp
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+https://www.w3schools.com/tags/tag_select.asp
+https://www.w3schools.com/html/exercise.asp
+
+#REF. L3 - Properties
+
+#REF. L4 - Selector
+
+#REF. L5 - Text and Font
+
+#REF. L6 - Image in CSS
+
+#REF. L7 - Box Model
+
+#REF. L8 - px vs em vs rem
+
+#REF. L9 - Flex-box
+
+#REF. L10 - CSS3
+
+#REF. L11 - Responsive UI
+
+#REF. L12 - Robot Animation
+
+#REF. L13 - Grid vs Flex-box
+
+#REF. L14 - ?

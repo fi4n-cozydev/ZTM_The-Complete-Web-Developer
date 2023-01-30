@@ -4,8 +4,8 @@ https://github.com/zero-to-mastery/complete-web-developer-manual
 1. Introduction
 2. How The Internet Works
 3. History Of The Web
-4. HTML 5
-5. Advanced HTML 5
+4. HTML5
+5. Advanced HTML5
 6. CSS
 7. Advanced CSS
 8. Bootstrap 4, Templates, And Building Your Startup Landing Page
