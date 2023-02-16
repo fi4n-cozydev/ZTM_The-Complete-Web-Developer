@@ -1,0 +1,28 @@
+/* Selector{
+    Properties: value
+} */
+
+body{
+    background-color: burlywood;
+    background-image: url("_image/img1.jpg");
+    background-size: cover;
+}
+
+h2 {
+    color: #8b85c1;
+    text-align: center;
+    border: 5px dashed whitesmoke;
+    cursor: pointer;
+    background-color: rgba(129, 94, 91, 0.2);
+}
+
+p {
+    color: pink;
+}
+
+li {
+    list-style: none;
+    /* display: block; */
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+}
