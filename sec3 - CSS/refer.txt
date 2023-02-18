@@ -56,14 +56,17 @@ https://flukeout.github.io/
 https://css-tricks.com/almanac/
 https://www.supremo.co.uk/typeterms/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://unsplash.com/
 https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Cascada_y_herencia
+
+https://www.w3schools.com/cssref/css_selectors.php
 https://specificity.keegan.st/
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
 http://paletton.com/
 https://coolors.co/
-
+https://unsplash.com/
 https://fonts.google.com/
 ----------------------------------------------------------------------------------------------------
 
