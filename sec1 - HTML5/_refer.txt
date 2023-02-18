@@ -1,3 +1,23 @@
-#Ref. L1 - HTML Tags
+----------------------------------------------------------------------------------------------------
+" HTML 5 "
+
+https://developer.mozilla.org/en-US/
+https://stackoverflow.com/
+https://htmlreference.io/
 https://www.w3schools.com/tags/default.asp
 https://www.w3schools.com/html/html_formatting.asp
+----------------------------------------------------------------------------------------------------
+
+#Ref. L1 - HTML Tags
+Tags:
+    <html>
+    <head>
+    <title>
+    <body>
+    Headings (h1, h2, h3, h4, h5, h6)
+    Paragraph <p>
+    Bold <strong>, italic <em>
+    Ordered list <ol>, Unordered list <ul>, List item<li>
+    Break <br>, Horizontal rule <hr>
+    Image <img> and Attributes: alt, src, width, height
+    Anchor <a href="">

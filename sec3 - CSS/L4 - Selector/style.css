@@ -1,8 +1,6 @@
-/*
-Selector{
+/* Selector{
     Properties: value
-}
-*/
+} */
 
 body{
     background-color: burlywood;
@@ -10,7 +8,7 @@ body{
     background-size: cover;
 }
 
-h2 {
+h2, p {
     color: #8b85c1;
     text-align: center;
     border: 5px dashed whitesmoke;

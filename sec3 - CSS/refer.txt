@@ -1,19 +1,59 @@
-#Ref. L1 - HTML Tags
+----------------------------------------------------------------------------------------------------
+" HTML 5 "
+
+https://developer.mozilla.org/en-US/
+https://stackoverflow.com/
+https://htmlreference.io/
 https://www.w3schools.com/tags/default.asp
 https://www.w3schools.com/html/html_formatting.asp
+----------------------------------------------------------------------------------------------------
 
-#Ref. L2 - HTML Forms
+#Ref. L1 - HTML Tags
+Tags:
+    <html>
+    <head>
+    <title>
+    <body>
+    Headings (h1, h2, h3, h4, h5, h6)
+    Paragraph <p>
+    Bold <strong>, italic <em>
+    Ordered list <ol>, Unordered list <ul>, List item<li>
+    Break <br>, Horizontal rule <hr>
+    Image <img> and Attributes: alt, src, width, height
+    Anchor <a href="">
+
+----------------------------------------------------------------------------------------------------
+" Advanced HTML 5 "
+
 https://www.w3schools.com/html/html_forms.asp
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 https://www.w3schools.com/tags/tag_select.asp
 https://www.w3schools.com/html/exercise.asp
+----------------------------------------------------------------------------------------------------
 
-#REF. L3 - Properties
-https://css-tricks.com/almanac/
-http://paletton.com/
-https://coolors.co/
+#Ref. L2 - HTML Forms
+Tags:
+    <form>
+    method, action
+    <input>:
+    type= "text", "submit", "reset", "email", "date", "radio", "password"
+    required, value, name, min
+    dropdown <select>
+    option <option>
+    comment <!-- -->
+    <div> and <span>
+    Semantic Elements
+    <header>
+    <nav>
+    <main>
+    <footer>
+
+----------------------------------------------------------------------------------------------------
+" CSS "
+
 https://flukeout.github.io/
-https://fonts.google.com/
+
+https://css-tricks.com/almanac/
 https://www.supremo.co.uk/typeterms/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://unsplash.com/
@@ -21,15 +61,64 @@ https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Cascada_y_he
 https://specificity.keegan.st/
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
+http://paletton.com/
+https://coolors.co/
+
+https://fonts.google.com/
+----------------------------------------------------------------------------------------------------
+
+#REF. L3 - Properties
+Properties:
+    text-align
+    border
+    background
+    list-style
+    cursor
+    display: inline-block
+    color: hex, rgb or rgba
+
 #REF. L4 - Selector
+Selectors:
+    .class
+    #id
+    * (all elements)
+    element
+    element, element
+    element element
+    element > element
+    element + element
+    v:hover
+    :last-child
+    :first-child
+    ::before (pseudo-element)
+    !important (not recommended)
 
 #REF. L5 - Text and Font
+Text Properties:
+    text-decoration
+    text-transform
+    line-height
+    font-style
+    font-weight
+    font-size
+    font-family
 
 #REF. L6 - Image in CSS
+Layout Properties:
+    float and clear
 
 #REF. L7 - Box Model
+Box Model:
+    margin
+    border
+    padding
+    width and height
 
 #REF. L8 - px vs em vs rem
+Sizes:
+    px
+    em and rem
+    vw and vh (viewport width and height)
 
 #REF. L9 - Flex-box
 
