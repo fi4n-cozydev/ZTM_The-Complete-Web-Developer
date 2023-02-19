@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(0, 255, 0, 0.25);
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    font-size: 20px;
+}
+
+/* 
+    em: Relative to the parent element
+    rem: Relative to the root element (HTML tag)
+    %: Relative to the parent element
+*/
+
+span {
+    /* <span> is inside <P> */
+    /*! 2em = 2 time of origin-size --> <p> that had 20px */
+    font-size: 2em;
+    /* font-size: 40px; */
+
+    font-size: 50%; /* 50% of 20px */
+
+    /*! 2rem = 2 time of Root-size --> <html tag> */
+    font-size: 2rem;
+
+    
+}

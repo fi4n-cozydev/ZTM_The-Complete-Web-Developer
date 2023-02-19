@@ -96,7 +96,7 @@ Selectors:
     ::before (pseudo-element)
     !important (not recommended)
 
-#REF. L5 - Text and Font
+#REF. L5 - Text and Font (about.html)
 Text Properties:
     text-decoration
     text-transform
@@ -106,22 +106,26 @@ Text Properties:
     font-size
     font-family
 
-#REF. L6 - Image in CSS
+#REF. L6 - Image in CSS (about.html)
 Layout Properties:
     float and clear
 
-#REF. L7 - Box Model
+#REF. L7 - Box Model (login.html)
 Box Model:
     margin
     border
     padding
     width and height
 
-#REF. L8 - px vs em vs rem
+#REF. L8 - px vs em vs rem (login.html)
 Sizes:
     px
-    em and rem
-    vw and vh (viewport width and height)
+    em: Relative to the parent element
+    rem: Relative to the root element (HTML tag)
+    %: Relative to the parent element
+    vw: Relative to the viewport’s width
+    vh: Relative to the viewport’s height
+    https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
 
 #REF. L9 - Flex-box
 

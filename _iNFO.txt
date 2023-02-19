@@ -1,4 +1,5 @@
 https://github.com/zero-to-mastery/complete-web-developer-manual
+https://zero-to-mastery.github.io/resources/
 
 #Contents
 1. Introduction

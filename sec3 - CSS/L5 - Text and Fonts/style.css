@@ -1,0 +1,107 @@
+/* Selector{
+    Properties: value
+} */
+
+/*! active all */
+*{
+    text-align: right;
+}
+
+body{
+    background-color: burlywood;
+    background-image: url("_image/img1.jpg");
+    background-size: cover;
+}
+
+/*! active 2 items */
+/* h2, p { 
+    color: #8b85c1;
+    text-align: center;
+    border: 5px dashed whitesmoke;
+    cursor: pointer;
+    background-color: rgba(129, 94, 91, 0.2);
+} */
+
+/*! active when child items */
+/* h2 p { 
+    color: #8b85c1;
+    text-align: center;
+    border: 5px dashed whitesmoke;
+    cursor: pointer;
+    background-color: rgba(129, 94, 91, 0.2);
+} */
+
+/*! active specific child items */
+/* h2 > p { 
+    color: #8b85c1;
+    text-align: center;
+    border: 5px dashed whitesmoke;
+    cursor: pointer;
+    background-color: rgba(129, 94, 91, 0.2);
+} */
+
+/*! active 2ND'items that right after their 1ST'items */
+/* h2 + p { 
+    color: #8b85c1;
+    text-align: center;
+    border: 5px dashed whitesmoke;
+    cursor: pointer;
+    background-color: rgba(129, 94, 91, 0.2);
+} */
+
+/*! active when Hover mouse pointer */
+h2 + p { 
+    color: #2bffe6;
+    text-align: center;
+    border: 5px dashed whitesmoke;
+    cursor: pointer;
+    background-color: rgba(129, 94, 91, 0.2);
+}
+
+
+p {
+    text-decoration: underline;
+    text-decoration: line-through;
+
+    text-transform: uppercase;
+
+    line-height: 30px;
+
+    font-style: italic;
+    font-weight: bold; /* 100 ~ 900 */
+    font-size: 80%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Kanit', sans-serif;
+    
+    
+
+}
+
+li {
+    list-style: none;
+    /* display: block; */
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+}
+
+/*! active ONLY last child items */
+.web:last-child {
+    border: 5px dashed green;
+}
+
+/*! active ONLY first child items */
+.web2:first-child{
+    border: 5px dashed white;
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background-color: rgba(255, 0, 0, 0.2);
+}
+
+#div2 {
+    background-color: rgba(0, 255, 255, 0.2);
+}
