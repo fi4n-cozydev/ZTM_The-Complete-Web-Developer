@@ -4,9 +4,9 @@
 | :----------- | :--------- | :-------------- |
 | HTML5 | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
 | Advanced HTML5 | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
-| CSS | ![#2E8BC0](https://via.placeholder.com/10/2E8BC0?text=+) | `learning`|
-| Advanced CSS | ![#FFA500](https://via.placeholder.com/10/FFA500?text=+) | `waiting`|
-| Bootstrap | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| CSS | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
+| Advanced CSS | ![#2E8BC0](https://via.placeholder.com/10/2E8BC0?text=+) | `learning`|
+| Bootstrap | ![#FFA500](https://via.placeholder.com/10/FFA500?text=+) | `waiting`|
 |  CSS Grid + CSS Layout | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
 | Javascript | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
 | DOM Manipulation | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
