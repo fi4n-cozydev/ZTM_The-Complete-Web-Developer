@@ -126,3 +126,41 @@ Sizes:
     vw: Relative to the viewport’s width
     vh: Relative to the viewport’s height
     https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
+
+----------------------------------------------------------------------------------------------------
+" Advanced CSS "
+
+https://caniuse.com/
+https://www.w3schools.com/cssref/css3_browsersupport.asp
+http://shouldiprefix.com/
+https://robots.thoughtbot.com/transitions-and-transforms
+https://darekkay.com/dev/flexbox-cheatsheet.html
+----------------------------------------------------------------------------------------------------
+
+#REF. L9 - Flexbox
+    Flexbox:
+        display: flex
+        flex-direction
+        flex-wrap
+        flex-flow
+        justify-content
+        align-items
+        align-content
+        order
+        flex: flex-grow, flex-shrink and flex-basis
+        align-self
+
+    Properties:
+        transition
+        transform
+        box-shadow
+
+#REF. L10 - CSS3
+
+#REF. L11 - Responsive UI
+
+#REF. L12 - Robot Animation
+
+#REF. L13 - Grid vs Flex-box
+
+#REF. L14 - ?
