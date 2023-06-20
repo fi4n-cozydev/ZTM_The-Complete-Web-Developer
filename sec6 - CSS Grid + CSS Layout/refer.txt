@@ -165,3 +165,103 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
     https://thoughtbot.com/blog/transitions-and-transforms
 
 #REF. L11 - Robot Animation
+
+----------------------------------------------------------------------------------------------------
+" Bootstrap "
+
+https://mailchimp.com
+https://animate.style/
+
+https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
+http://mashup-template.com/templates.html
+https://startbootstrap.com/template-categories/all/
+https://mdbootstrap.com/freebies/
+https://www.creative-tim.com/
+Generating animated patter
+
+https://html5up.net/
+https://www.creative-tim.com/bootstrap-themes/free
+https://www.free-css.com/free-css-templates
+https://mdbootstrap.com/freebies/
+https://themewagon.com/author/mashuptemplate/
+https://startbootstrap.com/templates
+----------------------------------------------------------------------------------------------------
+
+#REF. L12 - Bootstrap CDN
+    https://getbootstrap.com/docs/5.3/getting-started/download/
+
+#REF. L13 - Bootstrap Grid
+    https://getbootstrap.com/docs/5.3/layout/grid/
+
+#REF. L14 - Bootstrap Landing Page
+    https://www.quora.com/What-is-UTF8
+    https://www.w3schools.com/tags/tag_meta.asp
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
+    https://css-tricks.com/perfect-full-page-background-image/
+
+----------------------------------------------------------------------------------------------------
+CSS Grid + CSS Layout
+
+Grid Cheat Sheets:
+    http://grid.malven.co/
+    https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Grid Garden:
+    https://cssgridgarden.com/
+
+Free Design resources:
+    https://interfacer.xyz/
+
+https://tailwindcss.com/
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L15 - CSS Grid
+    https://grid.malven.co/
+    http://cssgridgarden.com/
+
+#REF. L16 - CSS Layout
+    https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+    https://zerotomastery.io/resources/
+    https://web.dev/learn/css/
+
+----------------------------------------------------------------------------------------------------
+Javascript
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+DOM Manipulation
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Advanced Javascript
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Command Line
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+NPM + NPM Scripts
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+React.js + Redux
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+HTTP/JSON/AJAX + Asynchronous Javascript
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+APIs
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Node.js + Express.js
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Databases
+
+----------------------------------------------------------------------------------------------------
