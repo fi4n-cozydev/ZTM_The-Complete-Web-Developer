@@ -80,6 +80,7 @@ Properties:
     display: inline-block
     color: hex, rgb or rgba
 
+//--------------------------------------------------------------------
 #REF. L4 - Selector
 Selectors:
     .class
@@ -96,6 +97,7 @@ Selectors:
     ::before (pseudo-element)
     !important (not recommended)
 
+//--------------------------------------------------------------------
 #REF. L5 - Text and Font (about.html)
 Text Properties:
     text-decoration
@@ -106,10 +108,12 @@ Text Properties:
     font-size
     font-family
 
+//--------------------------------------------------------------------
 #REF. L6 - Image in CSS (about.html)
 Layout Properties:
     float and clear
 
+//--------------------------------------------------------------------
 #REF. L7 - Box Model (login.html)
 Box Model:
     margin
@@ -117,6 +121,7 @@ Box Model:
     padding
     width and height
 
+//--------------------------------------------------------------------
 #REF. L8 - px vs em vs rem (login.html)
 Sizes:
     px
@@ -157,6 +162,7 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
         transform
         box-shadow
 
+//--------------------------------------------------------------------
 #REF. L10 - CSS3
     https://www.w3schools.com/cssref/css3_browsersupport.php
     https://caniuse.com/
@@ -164,6 +170,7 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
     https://autoprefixer.github.io/
     https://thoughtbot.com/blog/transitions-and-transforms
 
+//--------------------------------------------------------------------
 #REF. L11 - Robot Animation
 
 ----------------------------------------------------------------------------------------------------
@@ -190,9 +197,11 @@ https://startbootstrap.com/templates
 #REF. L12 - Bootstrap CDN
     https://getbootstrap.com/docs/5.3/getting-started/download/
 
+//--------------------------------------------------------------------
 #REF. L13 - Bootstrap Grid
     https://getbootstrap.com/docs/5.3/layout/grid/
 
+//--------------------------------------------------------------------
 #REF. L14 - Bootstrap Landing Page
     https://www.quora.com/What-is-UTF8
     https://www.w3schools.com/tags/tag_meta.asp
@@ -220,6 +229,7 @@ https://tailwindcss.com/
     https://grid.malven.co/
     http://cssgridgarden.com/
 
+//--------------------------------------------------------------------
 #REF. L16 - CSS Layout
     https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
     https://zerotomastery.io/resources/
@@ -227,30 +237,6 @@ https://tailwindcss.com/
 
 ----------------------------------------------------------------------------------------------------
 " Javascript "
-
- 
-
-
-logical operators:
-        && = Sees if both values are the same/true.
-        || = Sees if there is at least one of the same/ true value.
-        ! = Turns true into false, and false into true.
-
-functions:
-        var a = function name() {}
-        function name() {}
-        return
-        () => (new in ECMAScript 6)
-
-data structures:
-        Array
-        Object
-
-looping:
-        for
-        while
-        do
-        forEach (new in ECMAScript 5)
 
 keywords:
         break       case        catch       class
@@ -288,6 +274,7 @@ comparisons:
         > (less than)
         < (greater than)
 
+//--------------------------------------------------------------------
 #REF. L18 - Variables
 
 variables:
@@ -295,7 +282,7 @@ variables:
         let (new in ECMAScript 6) : Used to declare variables that can be changed using code later on
         const (new in ECMAScript 6) : Used to declare constants that remain constant throughout the execution of the program, mostly used for functions and object
 
-
+//--------------------------------------------------------------------
 #REF. L19 - Control Flow
 
 conditionals:
@@ -332,39 +319,108 @@ conditionals:
                 default:
                     //code that runs if expression gives neither result1 nor result2
             }
-----------------------------------------------------------------------------------------------------
-DOM Manipulation
+
+logical operators:
+        && = Sees if both values are the same/true.
+        || = Sees if there is at least one of the same/ true value.
+        ! = Turns true into false, and false into true.
+
+//--------------------------------------------------------------------
+#REF. L20 - JS in HTML
+    <body>
+        <h1>Javascript in HTML</h1>
+        <script type="text/Javascript" src="script.js">
+            // alert("hello!");
+        </script>
+        <script type="text/Javascript" src="script2.js"></script>
+    </body>
+
+//--------------------------------------------------------------------
+#REF. L21 - Functions
+
+functions:
+        var a = function name() {}
+        function name() {}
+        return
+        () => (new in ECMAScript 6)
+
+//--------------------------------------------------------------------
+#REF. L22 - Arrays (data structures)
+
+https://www.w3schools.com/jsref/jsref_obj_array.asp
+
+//--------------------------------------------------------------------
+#REF. L23 - Objects (data structures)
+
+//--------------------------------------------------------------------
+#REF. L24 - JS build web 1
+
+//--------------------------------------------------------------------
+#REF. L25 - Terminology
+
+//--------------------------------------------------------------------
+#REF. L26 - Loops
+
+looping:
+        for
+        while
+        do
+        forEach (new in ECMAScript 5)
+
+//--------------------------------------------------------------------
+#REF. L27 - JS build web 2
 
 ----------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------
-Advanced Javascript
+" DOM Manipulation "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
 ----------------------------------------------------------------------------------------------------
-Command Line
+" Advanced Javascript "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
 ----------------------------------------------------------------------------------------------------
-NPM + NPM Scripts
+" Command Line "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
 ----------------------------------------------------------------------------------------------------
-React.js + Redux
+" NPM + NPM Scripts "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
 ----------------------------------------------------------------------------------------------------
-HTTP/JSON/AJAX + Asynchronous Javascript
+" React.js + Redux "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
 ----------------------------------------------------------------------------------------------------
-APIs
+" HTTP/JSON/AJAX + Asynchronous Javascript "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
 ----------------------------------------------------------------------------------------------------
-Node.js + Express.js
+" APIs "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
 ----------------------------------------------------------------------------------------------------
-Databases
+" Node.js + Express.js "
 
 ----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+----------------------------------------------------------------------------------------------------
+" Databases "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
