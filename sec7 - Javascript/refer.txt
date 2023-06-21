@@ -200,7 +200,7 @@ https://startbootstrap.com/templates
     https://css-tricks.com/perfect-full-page-background-image/
 
 ----------------------------------------------------------------------------------------------------
-CSS Grid + CSS Layout
+" CSS Grid + CSS Layout "
 
 Grid Cheat Sheets:
     http://grid.malven.co/
@@ -226,13 +226,52 @@ https://tailwindcss.com/
     https://web.dev/learn/css/
 
 ----------------------------------------------------------------------------------------------------
-Javascript
+" Javascript "
+
+ 
+
+
+logical operators:
+        && = Sees if both values are the same/true.
+        || = Sees if there is at least one of the same/ true value.
+        ! = Turns true into false, and false into true.
+
+functions:
+        var a = function name() {}
+        function name() {}
+        return
+        () => (new in ECMAScript 6)
+
+data structures:
+        Array
+        Object
+
+looping:
+        for
+        while
+        do
+        forEach (new in ECMAScript 5)
+
+keywords:
+        break       case        catch       class
+        const       continue    debugger    default
+        delete      do          else        export          
+        extends     finally     for         function
+        if          import      in          instanceof      
+        new         return      super       switch
+        this        throw       try         typeof          
+        var         void        while       with
+        yield
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L17 - Data types
 
 Data types:
     #Primitive
-        Number
-        String
-        Boolean
+        Number      0, 1, 2, ...
+        String      "some text" + "John" + 'is\'t'
+        Boolean     true or false --> ex. (5 > 10 -> false) or (3 === 3 -> true) or (3 !== 3 -> false)
         Undefined
         Null
         Symbol (new in ECMAScript 6)
@@ -241,7 +280,7 @@ Data types:
     #Non-primitive 
         Object (Array is not a special data types in JavaScript it belongs to the object data types)
 
-    comparisons:
+comparisons:
         !== (not equal to)
         === (equal to)
         >= (greater than or equal to)
@@ -249,12 +288,17 @@ Data types:
         > (less than)
         < (greater than)
 
-    variables:
+#REF. L18 - Variables
+
+variables:
         var
         let (new in ECMAScript 6) : Used to declare variables that can be changed using code later on
         const (new in ECMAScript 6) : Used to declare constants that remain constant throughout the execution of the program, mostly used for functions and object
-    
-    conditionals:
+
+
+#REF. L19 - Control Flow
+
+conditionals:
         //if
             if(condition) {
                 //Code written here is executed if condition is true
@@ -288,40 +332,6 @@ Data types:
                 default:
                     //code that runs if expression gives neither result1 nor result2
             }
-
-    logical operators:
-        && = Sees if both values are the same/true.
-        || = Sees if there is at least one of the same/ true value.
-        ! = Turns true into false, and false into true.
-
-    functions:
-        var a = function name() {}
-        function name() {}
-        return
-        () => (new in ECMAScript 6)
-
-    data structures:
-        Array
-        Object
-
-    looping:
-        for
-        while
-        do
-        forEach (new in ECMAScript 5)
-
-    keywords:
-        break       case        catch       class
-        const       continue    debugger    default
-        delete      do          else        export          
-        extends     finally     for         function
-        if          import      in          instanceof      
-        new         return      super       switch
-        this        throw       try         typeof          
-        var         void        while       with
-        yield
-
-----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 DOM Manipulation
 
