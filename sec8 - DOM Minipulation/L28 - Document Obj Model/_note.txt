@@ -1,0 +1,24 @@
+                #~~~ DOM Model ~~~#
+
+
+                  [window browser]
+                         ::
+                         ::
+                     [Document] //it's a screen of the web page.
+                         ::
+                         ::
+                [Root element <html>]
+        <<-------------------------------->>
+[Element <head>]                    [Element <body>] ----------->
+       ::                                                       ::
+       ::                                                       ::
+[Element <title>]                [Attribute "href"] <<---- [Element <a>] ---->> [Element <h1>]
+       ::                                                       ::                    ::
+       ::                                                       ::                    ::
+[Text "myTitle"]                                          [Text "myLink"]      [Text "myHeader"]
+
+
+//! ------------------------------------------------------------------------------
+
+window.alert("incorrect! password");
+document.write("google");

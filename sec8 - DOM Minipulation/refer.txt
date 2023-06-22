@@ -1,0 +1,466 @@
+----------------------------------------------------------------------------------------------------
+" HTML 5 "
+
+https://developer.mozilla.org/en-US/
+https://stackoverflow.com/
+https://htmlreference.io/
+https://www.w3schools.com/tags/default.asp
+https://www.w3schools.com/html/html_formatting.asp
+----------------------------------------------------------------------------------------------------
+
+#Ref. L1 - HTML Tags
+Tags:
+    <html>
+    <head>
+    <title>
+    <body>
+    Headings (h1, h2, h3, h4, h5, h6)
+    Paragraph <p>
+    Bold <strong>, italic <em>
+    Ordered list <ol>, Unordered list <ul>, List item<li>
+    Break <br>, Horizontal rule <hr>
+    Image <img> and Attributes: alt, src, width, height
+    Anchor <a href="">
+
+----------------------------------------------------------------------------------------------------
+" Advanced HTML 5 "
+
+https://www.w3schools.com/html/html_forms.asp
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+https://www.w3schools.com/tags/tag_select.asp
+https://www.w3schools.com/html/exercise.asp
+----------------------------------------------------------------------------------------------------
+
+#Ref. L2 - HTML Forms
+Tags:
+    <form>
+    method, action
+    <input>:
+    type= "text", "submit", "reset", "email", "date", "radio", "password"
+    required, value, name, min
+    dropdown <select>
+    option <option>
+    comment <!-- -->
+    <div> and <span>
+    Semantic Elements
+    <header>
+    <nav>
+    <main>
+    <footer>
+
+----------------------------------------------------------------------------------------------------
+" CSS "
+
+https://flukeout.github.io/
+
+https://css-tricks.com/almanac/
+https://www.supremo.co.uk/typeterms/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Cascada_y_herencia
+
+https://www.w3schools.com/cssref/css_selectors.php
+https://specificity.keegan.st/
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+http://paletton.com/
+https://coolors.co/
+https://unsplash.com/
+https://fonts.google.com/
+----------------------------------------------------------------------------------------------------
+
+#REF. L3 - Properties
+Properties:
+    text-align
+    border
+    background
+    list-style
+    cursor
+    display: inline-block
+    color: hex, rgb or rgba
+
+//--------------------------------------------------------------------
+#REF. L4 - Selector
+Selectors:
+    .class
+    #id
+    * (all elements)
+    element
+    element, element
+    element element
+    element > element
+    element + element
+    v:hover
+    :last-child
+    :first-child
+    ::before (pseudo-element)
+    !important (not recommended)
+
+//--------------------------------------------------------------------
+#REF. L5 - Text and Font (about.html)
+Text Properties:
+    text-decoration
+    text-transform
+    line-height
+    font-style
+    font-weight
+    font-size
+    font-family
+
+//--------------------------------------------------------------------
+#REF. L6 - Image in CSS (about.html)
+Layout Properties:
+    float and clear
+
+//--------------------------------------------------------------------
+#REF. L7 - Box Model (login.html)
+Box Model:
+    margin
+    border
+    padding
+    width and height
+
+//--------------------------------------------------------------------
+#REF. L8 - px vs em vs rem (login.html)
+Sizes:
+    px
+    em: Relative to the parent element
+    rem: Relative to the root element (HTML tag)
+    %: Relative to the parent element
+    vw: Relative to the viewport’s width
+    vh: Relative to the viewport’s height
+    https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
+
+----------------------------------------------------------------------------------------------------
+" Advanced CSS "
+
+https://caniuse.com/
+https://www.w3schools.com/cssref/css3_browsersupport.asp
+http://shouldiprefix.com/
+https://robots.thoughtbot.com/transitions-and-transforms
+https://darekkay.com/dev/flexbox-cheatsheet.html
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L9 - Flexbox
+    Flexbox:
+        display: flex
+        flex-direction
+        flex-wrap
+        flex-flow
+        justify-content
+        align-items
+        align-content
+        order
+        flex: flex-grow, flex-shrink and flex-basis
+        align-self
+
+    Properties:
+        transition
+        transform
+        box-shadow
+
+//--------------------------------------------------------------------
+#REF. L10 - CSS3
+    https://www.w3schools.com/cssref/css3_browsersupport.php
+    https://caniuse.com/
+    http://shouldiprefix.com/
+    https://autoprefixer.github.io/
+    https://thoughtbot.com/blog/transitions-and-transforms
+
+//--------------------------------------------------------------------
+#REF. L11 - Robot Animation
+
+----------------------------------------------------------------------------------------------------
+" Bootstrap "
+
+https://mailchimp.com
+https://animate.style/
+
+https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
+http://mashup-template.com/templates.html
+https://startbootstrap.com/template-categories/all/
+https://mdbootstrap.com/freebies/
+https://www.creative-tim.com/
+Generating animated patter
+
+https://html5up.net/
+https://www.creative-tim.com/bootstrap-themes/free
+https://www.free-css.com/free-css-templates
+https://mdbootstrap.com/freebies/
+https://themewagon.com/author/mashuptemplate/
+https://startbootstrap.com/templates
+----------------------------------------------------------------------------------------------------
+
+#REF. L12 - Bootstrap CDN
+    https://getbootstrap.com/docs/5.3/getting-started/download/
+
+//--------------------------------------------------------------------
+#REF. L13 - Bootstrap Grid
+    https://getbootstrap.com/docs/5.3/layout/grid/
+
+//--------------------------------------------------------------------
+#REF. L14 - Bootstrap Landing Page
+    https://www.quora.com/What-is-UTF8
+    https://www.w3schools.com/tags/tag_meta.asp
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
+    https://css-tricks.com/perfect-full-page-background-image/
+
+----------------------------------------------------------------------------------------------------
+" CSS Grid + CSS Layout "
+
+Grid Cheat Sheets:
+    http://grid.malven.co/
+    https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Grid Garden:
+    https://cssgridgarden.com/
+
+Free Design resources:
+    https://interfacer.xyz/
+
+https://tailwindcss.com/
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L15 - CSS Grid
+    https://grid.malven.co/
+    http://cssgridgarden.com/
+
+//--------------------------------------------------------------------
+#REF. L16 - CSS Layout
+    https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+    https://zerotomastery.io/resources/
+    https://web.dev/learn/css/
+
+----------------------------------------------------------------------------------------------------
+" Javascript "
+
+keywords:
+        break       case        catch       class
+        const       continue    debugger    default
+        delete      do          else        export          
+        extends     finally     for         function
+        if          import      in          instanceof      
+        new         return      super       switch
+        this        throw       try         typeof          
+        var         void        while       with
+        yield
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L17 - Data types
+
+Data types:
+    #Primitive
+        Number      0, 1, 2, ...
+        String      "some text" + "John" + 'is\'t'
+        Boolean     true or false --> ex. (5 > 10 -> false) or (3 === 3 -> true) or (3 !== 3 -> false)
+        Undefined
+        Null
+        Symbol (new in ECMAScript 6)
+        BigInt
+
+    #Non-primitive 
+        Object (Array is not a special data types in JavaScript it belongs to the object data types)
+
+comparisons:
+        !== (not equal to)
+        === (equal to)
+        >= (greater than or equal to)
+        <= (less than or equal to)
+        > (less than)
+        < (greater than)
+
+//--------------------------------------------------------------------
+#REF. L18 - Variables
+
+variables:
+        var
+        let (new in ECMAScript 6) : Used to declare variables that can be changed using code later on
+        const (new in ECMAScript 6) : Used to declare constants that remain constant throughout the execution of the program, mostly used for functions and object
+
+//--------------------------------------------------------------------
+#REF. L19 - Control Flow
+
+conditionals:
+        //if
+            if(condition) {
+                //Code written here is executed if condition is true
+            }
+
+        //else
+            if(condition1) {
+                //Code written here is executed if condition1 is true
+            } else {
+                //Code written here is executed if condition is false
+            }
+
+        //else if
+            if(condition) {
+                //Code written here is executed if condition1 is true
+            } else if(condition) {
+                //Code written here is executed if condition2 is true
+            }
+
+        //ternary operator
+            condition ? (code that runs with condition is true) : (code that runs when condition is false);
+
+        //switch
+            switch(expression){
+                case result1:
+                    //code that runs if expression gives result1
+                    break;
+                case result2:
+                    //code that runs if expression gives result2
+                    break;
+                default:
+                    //code that runs if expression gives neither result1 nor result2
+            }
+
+logical operators:
+        && = Sees if both values are the same/true.
+        || = Sees if there is at least one of the same/ true value.
+        ! = Turns true into false, and false into true.
+
+//--------------------------------------------------------------------
+#REF. L20 - JS in HTML
+    <body>
+        <h1>Javascript in HTML</h1>
+        <script type="text/Javascript" src="script.js">
+            // alert("hello!");
+        </script>
+        <script type="text/Javascript" src="script2.js"></script>
+    </body>
+
+//--------------------------------------------------------------------
+#REF. L21 - Functions
+
+functions:
+        var a = function name() {}
+        function name() {}
+        return
+        () => (new in ECMAScript 6)
+
+//--------------------------------------------------------------------
+#REF. L22 - Arrays (data structures)
+
+https://www.w3schools.com/jsref/jsref_obj_array.asp
+
+
+#REF. L23 - Objects (data structures)
+#REF. L24 - JS build web 1
+#REF. L25 - Terminology
+
+//--------------------------------------------------------------------
+#REF. L26 - Loops
+
+looping:
+        for
+        while
+        do
+        forEach (new in ECMAScript 5)
+
+//--------------------------------------------------------------------
+#REF. L27 - JS build web 2
+
+----------------------------------------------------------------------------------------------------
+" DOM Manipulation "
+
+Reference websites:
+    https://developer.mozilla.org/en-US/docs/web/Events
+    https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+    https://jquery.com/
+    http://youmightnotneedjquery.com/
+    https://babeljs.io/
+
+DOM Selectors:
+    getElementsByTagName    /    getElementsByClassName    /    getElementById    /    querySelector
+    querySelectorAll        /    getAttribute              /    setAttribute      /     
+
+Changing Styles:
+    style.{property} (ok)   /    className (best)          /    classList (best)
+    classList.add           /    classList.remove          /    classList.toggle
+
+
+Bonus:
+innerHTML (DANGEROUS)       /    parentElement             /    children
+
+!NOTE : It is important to CACHE selectors in variables
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L28 - Document Obj Model
+    https://www.w3schools.com/js/js_htmldom.asp
+
+//--------------------------------------------------------------------
+#REF. L29 - DOM Selector
+
+//--------------------------------------------------------------------
+#REF. L30 - DOM Events
+    https://developer.mozilla.org/en-US/docs/Web/Events
+    https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+
+//--------------------------------------------------------------------
+#REF. L31 - Background Generator
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color
+    https://www.w3schools.com/css/css3_gradients.asp
+
+----------------------------------------------------------------------------------------------------
+" Advanced Javascript "
+https://github.com/zero-to-mastery/complete-web-developer-manual#14
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+
+----------------------------------------------------------------------------------------------------
+" Command Line "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+
+----------------------------------------------------------------------------------------------------
+" NPM + NPM Scripts "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+
+----------------------------------------------------------------------------------------------------
+" React.js + Redux "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+
+----------------------------------------------------------------------------------------------------
+" HTTP/JSON/AJAX + Asynchronous Javascript "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+
+----------------------------------------------------------------------------------------------------
+" APIs "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+
+----------------------------------------------------------------------------------------------------
+" Node.js + Express.js "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
+
+----------------------------------------------------------------------------------------------------
+" Databases "
+
+----------------------------------------------------------------------------------------------------
+
+#REF. L - 
