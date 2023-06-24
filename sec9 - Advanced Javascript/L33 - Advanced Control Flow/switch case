@@ -1,0 +1,27 @@
+function moveCommand(direction) {
+    var whatHappens;
+    switch (direction) {
+        case "forward":
+            whatHappens = "go shopping store";
+            break;
+        case "backward":
+            whatHappens = "go back home";
+            break;
+        case "right":
+            whatHappens = "go to the college";
+            break;
+        case "left":
+            whatHappens = "go buy a hamburger";
+            break;
+        default:
+            whatHappens = "please enter a valid direction"
+    }
+    return whatHappens;
+}
+
+window.moveCommand("forward");
+// 'go shopping store'
+moveCommand("forward");
+// 'go shopping store'
+moveCommand("forward2");
+// 'please enter a valid direction'
