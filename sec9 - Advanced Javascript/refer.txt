@@ -429,6 +429,37 @@ https://github.com/zero-to-mastery/complete-web-developer-manual#14
 
 #REF. L35 - Advanced Functions
 
+#REF. L36 - Advanced Arrays
+    https://sdras.github.io/array-explorer/
+
+#REF. L37 - Advanced Objects
+    https://objectexplorer.netlify.app/
+
+    https://dorey.github.io/JavaScript-Equality-Table/
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+    https://262.ecma-international.org/5.1/#sec-11.9.3
+
+#REF. L38 - ES7
+
+#REF. L39 - ES8 & ES9
+
+#REF. L40 - ES10
+    https://riptutorial.com/javascript/example/2337/infinity-and--infinity
+
+#REF. L41 - Advanced Loops
+
+#REF. L42 - ES2020
+
+#REF. L43 - ES2021
+
+#REF. L44 - ES2022
+
+#REF. L45 - Debugging
+
+#REF. L46 - How JS Works
+
+#REF. L47 - Modules
+
 ----------------------------------------------------------------------------------------------------
 " Command Line "
 
