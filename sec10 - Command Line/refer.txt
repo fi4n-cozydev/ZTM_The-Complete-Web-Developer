@@ -472,10 +472,25 @@ https://github.com/zero-to-mastery/Coding_Challenge-6
 
 ----------------------------------------------------------------------------------------------------
 " Command Line "
-
+    https://www.lifewire.com/command-prompt-2625840
+    
 ----------------------------------------------------------------------------------------------------
 
-#REF. L - 
+#REF. L49 - Using The Terminal
+    dir - list files
+    cd {directory name} - change directory
+    cd / - go to root (top) directory
+    cd .. - go up a level
+    mkdir {file name} - make a directory
+    echo > {filename} - create an empty file
+    del {filename} - remove a file
+    rmdir {directory name} - remove a directory and all files within
+    rename {filename} {new filename} - rename a file or folder
+    start {filename} - open file in default program
+    start . - open current directory
+    exit - exits the command prompt or a batch file
+    cls - clear the terminal screen
+    type {filename} - displays the content of the file 
 
 ----------------------------------------------------------------------------------------------------
 " NPM + NPM Scripts "
