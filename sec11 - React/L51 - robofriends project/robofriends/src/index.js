@@ -1,21 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App from './App';
+
 // import Hello from './Hello';
 // import Card from './Card';
-import CardList from './CardList';
+// import CardList from './CardList';
+import App from './App';
 
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 
-import { profileDatas } from './profileDatas';
+// import { profileDatas } from './profileDatas';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <h1>Hello World</h1> */}
-    {/* <App /> */}
+    {/* <h1>Hello World</h1> */}    
 
     {/* <Hello /> */}
     {/* <Hello greeting={'Hello' + 'React Ninja'}/> */}
@@ -26,7 +26,9 @@ root.render(
       <Card id={profileDatas[1].id} name={profileDatas[1].name} email={profileDatas[1].email}/>
       <Card id={profileDatas[2].id} name={profileDatas[2].name} email={profileDatas[2].email}/>
     </div> */}
-    <CardList profileDatas={profileDatas}/>
+    {/* <CardList profileDatas={profileDatas}/> */}
+
+    <App />
 
   </React.StrictMode>
 );
