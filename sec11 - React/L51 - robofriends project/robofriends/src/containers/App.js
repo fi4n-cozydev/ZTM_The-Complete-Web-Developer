@@ -1,8 +1,8 @@
 // import React from "react";
 import React, {Component} from "react";
-import CardList from "./CardList";
-import SearchBox from './SearchBox';
-import Scroll from './Scroll';
+import CardList from "../components/CardList";
+import SearchBox from '../components/SearchBox';
+import Scroll from '../components/Scroll';
 // import { profileDatas } from './profileDatas';
 import './App.css';
 
@@ -61,16 +61,16 @@ class App extends Component {
     }
 
     render() {
-        const filterData = this.state.profileDatas.filter(profileDatas =>{
-            return profileDatas.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
+        const { profileDatas, searchfield } = this.state;
+
+        const filterData = profileDatas.filter(profileData =>{
+            return profileData.name.toLowerCase().includes(searchfield.toLowerCase());
         })
         // console.log('state = 3 : render');
 
-        if (this.state.profileDatas.length === 0) {
-            return <h1>Loading</h1>
-        } else {
-
-            return (
+        return !profileDatas.length ?
+            <h1>Loading</h1> :       
+            (
                 <div className="tc">
                     <h1 className="f1">Robofriends</h1>
                     <SearchBox searchChange={this.onSearchChange}/>
@@ -81,7 +81,29 @@ class App extends Component {
                     </Scroll>
                 </div>
             );
-        }
+        
+
+        // const filterData = this.state.profileDatas.filter(profileData =>{
+        //     return profileData.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
+        // })
+        // // console.log('state = 3 : render');
+
+        // if (this.state.profileDatas.length === 0) {
+        //     return <h1>Loading</h1>
+        // } else {
+
+            // return (
+            //     <div className="tc">
+            //         <h1 className="f1">Robofriends</h1>
+            //         <SearchBox searchChange={this.onSearchChange}/>
+
+            //         {/* <CardList profileDatas={this.state.profileDatas}/> */}
+            //         <Scroll>
+            //             <CardList profileDatas={filterData}/>
+            //         </Scroll>
+            //     </div>
+            // );
+        // }
     }
 }
 
