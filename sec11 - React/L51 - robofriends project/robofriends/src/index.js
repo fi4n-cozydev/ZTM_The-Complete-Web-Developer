@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './App';
 // import Hello from './Hello';
-import Card from './Card';
+// import Card from './Card';
+import CardList from './CardList';
 
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
@@ -19,11 +20,13 @@ root.render(
     {/* <Hello /> */}
     {/* <Hello greeting={'Hello' + 'React Ninja'}/> */}
     {/* <Card /> */}
-    <div>
+
+    {/* <div>
       <Card id={profileDatas[0].id} name={profileDatas[0].name} email={profileDatas[0].email}/>
       <Card id={profileDatas[1].id} name={profileDatas[1].name} email={profileDatas[1].email}/>
       <Card id={profileDatas[2].id} name={profileDatas[2].name} email={profileDatas[2].email}/>
-    </div>
+    </div> */}
+    <CardList profileDatas={profileDatas}/>
 
   </React.StrictMode>
 );
