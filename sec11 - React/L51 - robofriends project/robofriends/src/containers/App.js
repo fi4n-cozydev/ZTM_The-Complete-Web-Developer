@@ -4,6 +4,7 @@ import CardList from "../components/CardList";
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 // import { profileDatas } from './profileDatas';
+import ErrorBoundry from "../components/ErrorBoundry";
 import './App.css';
 
 // const state = {
@@ -77,7 +78,9 @@ class App extends Component {
 
                     {/* <CardList profileDatas={this.state.profileDatas}/> */}
                     <Scroll>
-                        <CardList profileDatas={filterData}/>
+                        <ErrorBoundry>
+                            <CardList profileDatas={filterData}/>
+                        </ErrorBoundry>
                     </Scroll>
                 </div>
             );

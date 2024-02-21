@@ -2,6 +2,12 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({profileDatas}) => {
+
+    //? test : ErrorBoundry function
+    // if(true) {
+    //     throw new Error('Noooo way out!');
+    // }
+
     // const cardArray = profileDatas.map((user, i ) => {
     //     return (
     //         <Card 
