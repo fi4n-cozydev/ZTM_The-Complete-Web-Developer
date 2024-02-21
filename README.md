@@ -13,8 +13,8 @@
 | Advanced Javascript | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
 | Command Line | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
 | NPM + NPM Scripts | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
-| React.js + Redux | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`|
-| HTTP/JSON/AJAX + Asynchronous Javascript | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| React.js + Redux | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
+| HTTP/JSON/AJAX + Asynchronous Javascript | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`|
 | Backend Basics | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
 | APIs | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
 | Node.js + Express.js | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
