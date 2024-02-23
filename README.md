@@ -14,8 +14,8 @@
 | Command Line | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
 | NPM + NPM Scripts | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
 | React.js + Redux | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
-| HTTP/JSON/AJAX + Asynchronous Javascript | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`|
-| Backend Basics | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
-| APIs | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
+| HTTP/JSON/AJAX + Asynchronous Javascript | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
+| Backend Basics | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`|
+| APIs | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`|
 | Node.js + Express.js | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
 | Databases | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`|
