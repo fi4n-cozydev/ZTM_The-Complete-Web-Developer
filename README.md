@@ -17,8 +17,8 @@
 | HTTP/JSON/AJAX + Asynchronous Javascript | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`| - |
 | Backend Basics | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`| - |
 | APIs | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`| - |
-| Node.js + Express.js | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
 | Final Project: SmartBrain Front-End| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| https://github.com/fi4n-cozydev/react-face-recognition-p1 |
+| Node.js + Express.js | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
 | Databases | ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| - |
 | Final Project: SmartBrain Back-End -- Database| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| https://github.com/fi4n-cozydev/react-face-recognition-p2 |
 | Production + Deployment| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| - |
