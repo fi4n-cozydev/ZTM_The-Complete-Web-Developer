@@ -17,7 +17,7 @@
 | HTTP/JSON/AJAX + Asynchronous Javascript | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`| - |
 | Backend Basics | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`| - |
 | APIs | ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`| - |
-| Final Project: SmartBrain Front-End| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| - |
+| Final Project: SmartBrain Front-End| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| https://github.com/fi4n-cozydev/face-recognition-brain |
 | Node.js + Express.js | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
 | Databases | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
 | Final Project: SmartBrain Back-End -- Database| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| - |
