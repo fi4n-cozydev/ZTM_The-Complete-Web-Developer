@@ -24,5 +24,5 @@
 | SmartBrain Back-End V1 -- Database| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| https://github.com/fi4n-cozydev/face-recognition-brain-api |
 | SmartBrain Back-End Final -- Database| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| https://github.com/fi4n-cozydev/smart-brain-api |
 | Production + Deployment| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| - |
-| Optional: Reack Hooks| ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
+| Optional: Reack Hooks| ![#00B48A](https://via.placeholder.com/10/00B48A?text=+) | `success`| - |
 | Optional: Redux| ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
