@@ -20,7 +20,7 @@
 | Final Project: SmartBrain Front-End| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| https://github.com/fi4n-cozydev/face-recognition-brain |
 | Node.js + Express.js | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
 | Databases | ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
-| Final Project: SmartBrain Back-End -- Database| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| - |
+| Final Project: SmartBrain Back-End -- Database| ![#000000](https://via.placeholder.com/10/000000?text=+) | `untrack`| https://github.com/fi4n-cozydev/face-recognition-brain-api |
 | Production + Deployment| ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
 | Optional: Reack Hooks| ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
 | Optional: Redux| ![#96be25](https://via.placeholder.com/10/#96be25?text=+) | `learning`| - |
